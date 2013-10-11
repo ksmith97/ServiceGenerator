@@ -1,0 +1,11 @@
+	/**
+	 * This method is a mocked version of the original service call. It is designed to allow
+	 * us to test changes to the service call process.
+	 *
+	 * This method was auto generated. It should not be modified.
+	 */
+	public final <returnType> <methodName>( <params> ) <exceptions>
+	{
+		logger.info("Successfully called method <methodName>.");
+	    return <return>;
+	}
